@@ -1,6 +1,6 @@
 # Petshop Database
 
-Este repositório contém o esquema de banco de dados e os dados iniciais para um sistema de gerenciamento de um petshop, incluindo tabelas e comandos de inserção.
+Este repositório contém o esquema de banco de dados e os dados iniciais para um sistema de gerenciamento de um petshop, incluindo tabelas e comandos de inserção, além da criação de relátorios, incluindo análise de métricas, visualização de informações relevantes e insights para tomada de decisão.
 
 ## Estrutura do Projeto
 
